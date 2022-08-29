@@ -1,0 +1,15 @@
+C:\Workspace\estudos-csharp\sintaxe-csharp\bin\Debug\net6.0\sintaxe-csharp.exe
+C:\Workspace\estudos-csharp\sintaxe-csharp\bin\Debug\net6.0\sintaxe-csharp.deps.json
+C:\Workspace\estudos-csharp\sintaxe-csharp\bin\Debug\net6.0\sintaxe-csharp.runtimeconfig.json
+C:\Workspace\estudos-csharp\sintaxe-csharp\bin\Debug\net6.0\sintaxe-csharp.dll
+C:\Workspace\estudos-csharp\sintaxe-csharp\bin\Debug\net6.0\sintaxe-csharp.pdb
+C:\Workspace\estudos-csharp\sintaxe-csharp\obj\Debug\net6.0\sintaxe-csharp.csproj.AssemblyReference.cache
+C:\Workspace\estudos-csharp\sintaxe-csharp\obj\Debug\net6.0\sintaxe-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\estudos-csharp\sintaxe-csharp\obj\Debug\net6.0\sintaxe-csharp.AssemblyInfoInputs.cache
+C:\Workspace\estudos-csharp\sintaxe-csharp\obj\Debug\net6.0\sintaxe-csharp.AssemblyInfo.cs
+C:\Workspace\estudos-csharp\sintaxe-csharp\obj\Debug\net6.0\sintaxe-csharp.csproj.CoreCompileInputs.cache
+C:\Workspace\estudos-csharp\sintaxe-csharp\obj\Debug\net6.0\sintaxe-csharp.dll
+C:\Workspace\estudos-csharp\sintaxe-csharp\obj\Debug\net6.0\refint\sintaxe-csharp.dll
+C:\Workspace\estudos-csharp\sintaxe-csharp\obj\Debug\net6.0\sintaxe-csharp.pdb
+C:\Workspace\estudos-csharp\sintaxe-csharp\obj\Debug\net6.0\sintaxe-csharp.genruntimeconfig.cache
+C:\Workspace\estudos-csharp\sintaxe-csharp\obj\Debug\net6.0\ref\sintaxe-csharp.dll

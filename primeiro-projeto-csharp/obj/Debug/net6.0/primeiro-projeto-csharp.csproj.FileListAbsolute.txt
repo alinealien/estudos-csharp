@@ -1,0 +1,15 @@
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\bin\Debug\net6.0\primeiro-projeto-csharp.exe
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\bin\Debug\net6.0\primeiro-projeto-csharp.deps.json
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\bin\Debug\net6.0\primeiro-projeto-csharp.runtimeconfig.json
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\bin\Debug\net6.0\primeiro-projeto-csharp.dll
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\bin\Debug\net6.0\primeiro-projeto-csharp.pdb
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\obj\Debug\net6.0\primeiro-projeto-csharp.csproj.AssemblyReference.cache
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\obj\Debug\net6.0\primeiro-projeto-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\obj\Debug\net6.0\primeiro-projeto-csharp.AssemblyInfoInputs.cache
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\obj\Debug\net6.0\primeiro-projeto-csharp.AssemblyInfo.cs
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\obj\Debug\net6.0\primeiro-projeto-csharp.csproj.CoreCompileInputs.cache
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\obj\Debug\net6.0\primeiro-projeto-csharp.dll
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\obj\Debug\net6.0\refint\primeiro-projeto-csharp.dll
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\obj\Debug\net6.0\primeiro-projeto-csharp.pdb
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\obj\Debug\net6.0\primeiro-projeto-csharp.genruntimeconfig.cache
+C:\Workspace\estudos-csharp\primeiro-projeto-csharp\obj\Debug\net6.0\ref\primeiro-projeto-csharp.dll
