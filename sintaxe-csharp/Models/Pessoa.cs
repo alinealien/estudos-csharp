@@ -19,10 +19,15 @@ namespace sintaxe_csharp.Models
         public void Apresentar() //metodo
         {
             //Console = classe | WriteLine = metodo
-            Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos");
+            Console.WriteLine($"Hello, World!!\nMe chamo {Nome}, tenho {Idade} anos de idade.\nE esse é o meu primeiro código em C#.");
 
+            // DICAS:
             //Quando se utiliza o @[palavra reservada]informamos que sabemos que é uma palavra reservada mais quero utiliza-la mesmo assim
+            // o [/n : Pode-se quebrar de linha]
 
+           //Pra variaveis: camelCase
+          // Evitar abreviações 
+          // O nome do arquivo deve obedecer o nome da classe
         }
         
     }

@@ -8,9 +8,11 @@
 
 using sintaxe_csharp.Models;
 
+//Sintaxe é o conjuntos de regras de um linguagem
+//Conveções são opcionais, mas devemos obdece-las pois é padrão para legibilidade do seu codigo
+
 Pessoa p1 = new Pessoa(); //instanciamos
 
-
-p1.Nome = "Aline";
+p1.Nome = "Aline Antunes";
 p1.Idade = 30;
 p1.Apresentar();
